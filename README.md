@@ -30,10 +30,12 @@ built using Retool Workflows.
 ## 📸 Screenshots
 
 ### Workflow Canvas
-![Workflow](workflow.png)
+![Workflow](Automation%20Workflow.png)
+
 
 ### Email Received
-![Email](email.png)
+![Email](Email.png)
+
 
 
 ## 🚀 How to Replicate
