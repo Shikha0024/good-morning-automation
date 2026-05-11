@@ -29,6 +29,12 @@ built using Retool Workflows.
 
 ## 📸 Screenshots
 
+### Workflow Canvas
+![Workflow](workflow.png)
+
+### Email Received
+![Email](email.png)
+
 
 ## 🚀 How to Replicate
 1. Create a Retool account
